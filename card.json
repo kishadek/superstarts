@@ -173,6 +173,21 @@
     "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_v.png?format=png",
     "footer": "You obtained the reward."
     }
-    ]
+    ],
+ 
+           "REGE_D_S": [
+    {
+    "name": "<:s:1063129402990415994> **Taylor Swift Dance** Getaway Car",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_d.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
   
+           "REGE_R_S": [
+    {
+    "name": "<:s:1063129402990415994> **Taylor Swift Rhythm** Getaway Car",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_r.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ]
             }
