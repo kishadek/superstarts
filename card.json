@@ -189,5 +189,13 @@
     "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_r.png?format=png",
     "footer": "You obtained the reward."
     }
-    ]
+    ],
+ 
+  "RESO_V_C": [
+    {
+    "name": "<:c_:1063129501699166208> **Taylor Swift Vocal** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png",
+    "footer": "You obtained the reward."
+    }
+    ],
             }
