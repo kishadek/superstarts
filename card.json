@@ -193,9 +193,106 @@
  
   "RESO_V_C": [
     {
-    "name": "<:c_:1063129501699166208> **Taylor Swift Vocal** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png",
-    "footer": "You obtained the reward."
+    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png"
+    }
+    ],
+ 
+   "RESO_D_C": [
+    {
+    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082941784064/Untitled1062_20230224151908.png"
+    }
+    ],
+ 
+    "RESO_R_C": [
+    {
+    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578133315366942/Untitled1062_20230224151940.png"
+    }
+    ],
+ 
+   "RESO_V_B": [
+    {
+    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png"
+    }
+    ],
+ 
+   "RESO_D_B": [
+    {
+    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082941784064/Untitled1062_20230224151908.png"
+    }
+    ],
+ 
+    "RESO_R_B": [
+    {
+    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578133315366942/Untitled1062_20230224151940.png"
+    }
+    ],
+ 
+   "RESO_V_A": [
+    {
+    "name": "<:emoji_45:1079421612182491208> **Taylor Swift Vocal** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png"
+    }
+    ],
+ 
+   "RESO_D_A": [
+    {
+    "name": "<:emoji_45:1079421612182491208> **Taylor Swift Dance** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082941784064/Untitled1062_20230224151908.png"
+    }
+    ],
+ 
+    "RESO_R_A": [
+    {
+    "name": "<:emoji_45:1079421612182491208> **Taylor Swift Rhythm** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578133315366942/Untitled1062_20230224151940.png"
+    }
+    ],
+ 
+   "RESO_V_S": [
+    {
+    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Vocal** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png"
+    }
+    ],
+ 
+   "RESO_D_S": [
+    {
+    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Dance** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082941784064/Untitled1062_20230224151908.png"
+    }
+    ],
+ 
+    "RESO_R_S": [
+    {
+    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Rhythm** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578133315366942/Untitled1062_20230224151940.png"
+    }
+    ],
+ 
+   "RESO_V_R": [
+    {
+    "name": "<:emoji_47:1079421657149612122> **Taylor Swift Vocal** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png"
+    }
+    ],
+ 
+   "RESO_D_R": [
+    {
+    "name": "<:emoji_47:1079421657149612122> **Taylor Swift Dance** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082941784064/Untitled1062_20230224151908.png"
+    }
+    ],
+ 
+    "RESO_R_R": [
+    {
+    "name": "<:emoji_47:1079421657149612122> **Taylor Swift Rhythm** So It Goes...",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578133315366942/Untitled1062_20230224151940.png"
     }
     ],
             }
